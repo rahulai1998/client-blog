@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/my-moments", {data:[{}],fetch:{},mutations:void 0});
