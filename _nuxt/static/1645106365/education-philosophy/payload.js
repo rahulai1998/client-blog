@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/education-philosophy", {data:[{}],fetch:{},mutations:void 0});
