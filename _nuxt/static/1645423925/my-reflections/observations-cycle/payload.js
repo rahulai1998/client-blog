@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/my-reflections/observations-cycle", {data:[{}],fetch:{},mutations:void 0});
