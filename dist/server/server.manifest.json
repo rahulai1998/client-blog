@@ -1,0 +1,29 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/index.js": "pages/index.js",
+    "pages/my-reflections/cld.js": "pages/my-reflections/cld.js",
+    "pages/my-reflections/mpl.js": "pages/my-reflections/mpl.js",
+    "pages/my-reflections/observations-cycle.js": "pages/my-reflections/observations-cycle.js",
+    "pages/my-resume.js": "pages/my-resume.js",
+    "pages/my-vision.js": "pages/my-vision.js",
+    "pages/my-work/assignments.js": "pages/my-work/assignments.js",
+    "pages/my-work/lesson-plans.js": "pages/my-work/lesson-plans.js",
+    "pages/my-work/unit-plans.js": "pages/my-work/unit-plans.js",
+    "pages/recommendations.js": "pages/recommendations.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/index.js": "pages/index.js.map",
+    "pages/my-reflections/cld.js": "pages/my-reflections/cld.js.map",
+    "pages/my-reflections/mpl.js": "pages/my-reflections/mpl.js.map",
+    "pages/my-reflections/observations-cycle.js": "pages/my-reflections/observations-cycle.js.map",
+    "pages/my-resume.js": "pages/my-resume.js.map",
+    "pages/my-vision.js": "pages/my-vision.js.map",
+    "pages/my-work/assignments.js": "pages/my-work/assignments.js.map",
+    "pages/my-work/lesson-plans.js": "pages/my-work/lesson-plans.js.map",
+    "pages/my-work/unit-plans.js": "pages/my-work/unit-plans.js.map",
+    "pages/recommendations.js": "pages/recommendations.js.map",
+    "server.js": "server.js.map"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "my-resume",
+    "path": "/my-resume",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-resume.vue",
+    "chunkName": "pages/my-resume",
+    "_name": "_7433793a"
+  },
+  {
+    "name": "my-vision",
+    "path": "/my-vision",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-vision.vue",
+    "chunkName": "pages/my-vision",
+    "_name": "_713b819e"
+  },
+  {
+    "name": "recommendations",
+    "path": "/recommendations",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\recommendations.vue",
+    "chunkName": "pages/recommendations",
+    "_name": "_f6267fe2"
+  },
+  {
+    "name": "my-reflections-cld",
+    "path": "/my-reflections/cld",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-reflections\\\\cld.vue",
+    "chunkName": "pages/my-reflections/cld",
+    "_name": "_3d44cfa9"
+  },
+  {
+    "name": "my-reflections-mpl",
+    "path": "/my-reflections/mpl",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-reflections\\\\mpl.vue",
+    "chunkName": "pages/my-reflections/mpl",
+    "_name": "_55873eb7"
+  },
+  {
+    "name": "my-reflections-observations-cycle",
+    "path": "/my-reflections/observations-cycle",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-reflections\\\\observations-cycle.vue",
+    "chunkName": "pages/my-reflections/observations-cycle",
+    "_name": "_790ea07c"
+  },
+  {
+    "name": "my-work-assignments",
+    "path": "/my-work/assignments",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-work\\\\assignments.vue",
+    "chunkName": "pages/my-work/assignments",
+    "_name": "_98da22e2"
+  },
+  {
+    "name": "my-work-lesson-plans",
+    "path": "/my-work/lesson-plans",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-work\\\\lesson-plans.vue",
+    "chunkName": "pages/my-work/lesson-plans",
+    "_name": "_c0cba7c8"
+  },
+  {
+    "name": "my-work-unit-plans",
+    "path": "/my-work/unit-plans",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\my-work\\\\unit-plans.vue",
+    "chunkName": "pages/my-work/unit-plans",
+    "_name": "_0a883928"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Rahul Chavan\\\\Client-Blog\\\\Client-Blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5ea9b572"
+  }
+]
