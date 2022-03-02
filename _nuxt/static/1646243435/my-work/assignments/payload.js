@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/my-work/assignments", {data:[{}],fetch:{},mutations:void 0});

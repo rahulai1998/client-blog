@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/my-reflections/cdl", {data:[{}],fetch:{},mutations:void 0});
